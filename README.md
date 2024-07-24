@@ -3,14 +3,14 @@
 ## Instructions
 
 1. **ORIGINAL_STEAM_SAVEDATA**
-   - Copy your save data files from `Steam\userdata\#randomnumber\254700\remote\savegame00.sav` to this folder.
+   - Copy your save data files from `Steam\userdata\<Your SteamID>\254700\remote\savegame00.sav` to this folder.
    - If the file doesn't exist, ensure you have created save data in RE4.
 
 2. **EXTERNAL_SAVEDATA**
    - Copy your external save data or the save data you want to be patched to this folder.
 
 3. **OUTPUT_SAVEDATA**
-   - This save data is ready to replace `Steam\userdata\#randomnumber\254700\remote\savegame00.sav`.
+   - This save data is ready to replace `Steam\userdata\<Your SteamID>\254700\remote\savegame00.sav`.
 
 ## Method Explanation
 
